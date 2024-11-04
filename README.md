@@ -5,7 +5,7 @@ Dot Bypasser is a easy to use and setup CVC bypasser that supports many gateways
 > There is no need to install any certificate to use Dot Bypasser.
 
 ### Where is download link?
-> [Click here](https://github.com/urmomisnowmine/releases/releases/latest)
+> [Click here](../../releases/latest)
 
 ### Telegram Channel
 > [@dot_bypasser](https://telegram.me/dot_bypasser)
